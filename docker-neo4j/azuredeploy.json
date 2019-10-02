@@ -339,7 +339,7 @@
         "settings": {
           "compose": {
             "neo4j": {
-              "image": "tpires/neo4j",
+              "image": "neo4j",
               "ports": [
                 "7474:7474",
                 "7473:7473"
